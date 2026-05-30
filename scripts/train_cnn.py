@@ -10,7 +10,7 @@ import torch.optim as optim
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
-
+from tqdm import tqdm
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
@@ -114,13 +114,19 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=LR)
 
 
-def train_one_epoch():
+def train_one_epoch(epoch):
     model.train()
     total_loss = 0
     all_labels = []
     all_preds = []
 
-    for images, labels in train_loader:
+    progress_bar = tqdm(
+        train_loader,
+        desc=f"Epoch {epoch + 1}/{EPOCHS} - Training",
+        leave=False
+    )
+
+    for images, labels in progress_bar:
         images = images.to(DEVICE)
         labels = labels.to(DEVICE)
 
@@ -137,6 +143,13 @@ def train_one_epoch():
         total_loss += loss.item() * images.size(0)
         all_labels.extend(labels.cpu().numpy())
         all_preds.extend(preds.cpu().numpy())
+
+        current_acc = accuracy_score(all_labels, all_preds)
+
+        progress_bar.set_postfix({
+            "loss": f"{loss.item():.4f}",
+            "acc": f"{current_acc:.4f}"
+        })
 
     avg_loss = total_loss / len(train_dataset)
     acc = accuracy_score(all_labels, all_preds)
@@ -227,7 +240,7 @@ def save_confusion_matrix(y_true, y_pred, class_names):
 
 
 def calculate_binary_metrics(y_true, y_pred, class_names):
-    real_idx = class_names.index("real")
+    real_idx = class_names.index("0_real")
 
     y_true_binary = [0 if y == real_idx else 1 for y in y_true]
     y_pred_binary = [0 if y == real_idx else 1 for y in y_pred]
@@ -284,7 +297,7 @@ def main():
     val_accs = []
 
     for epoch in range(EPOCHS):
-        train_loss, train_acc = train_one_epoch()
+        train_loss, train_acc = train_one_epoch(epoch)
         val_loss, val_acc, _, _, _ = evaluate(val_loader, val_dataset)
 
         train_losses.append(train_loss)
