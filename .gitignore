@@ -1,0 +1,14 @@
+gan_env/
+.idea/
+__pycache__/
+*.pyc
+
+dataset/raw/
+dataset/train/
+dataset/val/
+dataset/test/
+
+model_weights/
+outputs/
+
+.DS_Store
