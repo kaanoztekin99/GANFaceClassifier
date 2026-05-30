@@ -2,6 +2,7 @@ gan_env/
 .idea/
 __pycache__/
 *.pyc
+*.pdf
 
 dataset/raw/
 dataset/train/
