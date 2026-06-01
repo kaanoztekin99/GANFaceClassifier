@@ -1,0 +1,10 @@
+Binary Real/Fake Accuracy: 0.9920
+
+              precision    recall  f1-score   support
+
+        Real     0.9615    1.0000    0.9804        50
+        Fake     1.0000    0.9900    0.9950       200
+
+    accuracy                         0.9920       250
+   macro avg     0.9808    0.9950    0.9877       250
+weighted avg     0.9923    0.9920    0.9921       250

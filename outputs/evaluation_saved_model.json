@@ -1,0 +1,18 @@
+{
+    "classes": [
+        "0_real",
+        "1_dcgan",
+        "2_progan",
+        "3_stylegan2",
+        "4_stylegan3"
+    ],
+    "class_mapping": {
+        "0_real": 0,
+        "1_dcgan": 1,
+        "2_progan": 2,
+        "3_stylegan2": 3,
+        "4_stylegan3": 4
+    },
+    "test_accuracy_5class": 0.82,
+    "test_accuracy_binary": 0.992
+}

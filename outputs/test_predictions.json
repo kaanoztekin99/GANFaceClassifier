@@ -1,0 +1,3502 @@
+{
+    "dataset/test/0_real/real_00000.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 95.44,
+        "probabilities": {
+            "0_real": 95.44,
+            "1_dcgan": 0.04,
+            "2_progan": 0.04,
+            "3_stylegan2": 2.08,
+            "4_stylegan3": 2.39
+        }
+    },
+    "dataset/test/0_real/real_00001.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.49,
+        "probabilities": {
+            "0_real": 99.49,
+            "1_dcgan": 0.01,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.24,
+            "4_stylegan3": 0.25
+        }
+    },
+    "dataset/test/0_real/real_00002.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.98,
+        "probabilities": {
+            "0_real": 99.98,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00003.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.73,
+        "probabilities": {
+            "0_real": 99.73,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.07,
+            "4_stylegan3": 0.19
+        }
+    },
+    "dataset/test/0_real/real_00004.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.96,
+        "probabilities": {
+            "0_real": 99.96,
+            "1_dcgan": 0.02,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/0_real/real_00005.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.87,
+        "probabilities": {
+            "0_real": 99.87,
+            "1_dcgan": 0.04,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.03,
+            "4_stylegan3": 0.05
+        }
+    },
+    "dataset/test/0_real/real_00006.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.79,
+        "probabilities": {
+            "0_real": 99.79,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.05,
+            "4_stylegan3": 0.16
+        }
+    },
+    "dataset/test/0_real/real_00007.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.7,
+        "probabilities": {
+            "0_real": 99.7,
+            "1_dcgan": 0.06,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.07,
+            "4_stylegan3": 0.16
+        }
+    },
+    "dataset/test/0_real/real_00008.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 97.86,
+        "probabilities": {
+            "0_real": 97.86,
+            "1_dcgan": 0.79,
+            "2_progan": 0.26,
+            "3_stylegan2": 0.59,
+            "4_stylegan3": 0.5
+        }
+    },
+    "dataset/test/0_real/real_00009.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 99.95,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/0_real/real_00010.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.73,
+        "probabilities": {
+            "0_real": 99.73,
+            "1_dcgan": 0.0,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.13,
+            "4_stylegan3": 0.11
+        }
+    },
+    "dataset/test/0_real/real_00011.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.01,
+        "probabilities": {
+            "0_real": 98.01,
+            "1_dcgan": 0.03,
+            "2_progan": 0.07,
+            "3_stylegan2": 0.41,
+            "4_stylegan3": 1.48
+        }
+    },
+    "dataset/test/0_real/real_00012.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.61,
+        "probabilities": {
+            "0_real": 98.61,
+            "1_dcgan": 0.16,
+            "2_progan": 0.33,
+            "3_stylegan2": 0.52,
+            "4_stylegan3": 0.38
+        }
+    },
+    "dataset/test/0_real/real_00013.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.2,
+        "probabilities": {
+            "0_real": 98.2,
+            "1_dcgan": 1.02,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.1,
+            "4_stylegan3": 0.68
+        }
+    },
+    "dataset/test/0_real/real_00014.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 96.32,
+        "probabilities": {
+            "0_real": 96.32,
+            "1_dcgan": 0.13,
+            "2_progan": 0.08,
+            "3_stylegan2": 1.14,
+            "4_stylegan3": 2.34
+        }
+    },
+    "dataset/test/0_real/real_00015.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.51,
+        "probabilities": {
+            "0_real": 99.51,
+            "1_dcgan": 0.03,
+            "2_progan": 0.06,
+            "3_stylegan2": 0.17,
+            "4_stylegan3": 0.22
+        }
+    },
+    "dataset/test/0_real/real_00016.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.98,
+        "probabilities": {
+            "0_real": 99.98,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00017.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 96.35,
+        "probabilities": {
+            "0_real": 96.35,
+            "1_dcgan": 1.46,
+            "2_progan": 1.44,
+            "3_stylegan2": 0.24,
+            "4_stylegan3": 0.5
+        }
+    },
+    "dataset/test/0_real/real_00018.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.98,
+        "probabilities": {
+            "0_real": 99.98,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00019.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.26,
+        "probabilities": {
+            "0_real": 98.26,
+            "1_dcgan": 1.18,
+            "2_progan": 0.07,
+            "3_stylegan2": 0.17,
+            "4_stylegan3": 0.32
+        }
+    },
+    "dataset/test/0_real/real_00020.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.93,
+        "probabilities": {
+            "0_real": 99.93,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.02,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/0_real/real_00021.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.64,
+        "probabilities": {
+            "0_real": 99.64,
+            "1_dcgan": 0.01,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.14,
+            "4_stylegan3": 0.21
+        }
+    },
+    "dataset/test/0_real/real_00022.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.98,
+        "probabilities": {
+            "0_real": 99.98,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/0_real/real_00023.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.57,
+        "probabilities": {
+            "0_real": 99.57,
+            "1_dcgan": 0.24,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.05,
+            "4_stylegan3": 0.12
+        }
+    },
+    "dataset/test/0_real/real_00024.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.52,
+        "probabilities": {
+            "0_real": 99.52,
+            "1_dcgan": 0.01,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.15,
+            "4_stylegan3": 0.31
+        }
+    },
+    "dataset/test/0_real/real_00025.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 96.12,
+        "probabilities": {
+            "0_real": 96.12,
+            "1_dcgan": 2.27,
+            "2_progan": 0.21,
+            "3_stylegan2": 0.33,
+            "4_stylegan3": 1.08
+        }
+    },
+    "dataset/test/0_real/real_00026.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.96,
+        "probabilities": {
+            "0_real": 99.96,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/0_real/real_00027.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.47,
+        "probabilities": {
+            "0_real": 99.47,
+            "1_dcgan": 0.01,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.28,
+            "4_stylegan3": 0.22
+        }
+    },
+    "dataset/test/0_real/real_00028.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.58,
+        "probabilities": {
+            "0_real": 99.58,
+            "1_dcgan": 0.09,
+            "2_progan": 0.07,
+            "3_stylegan2": 0.08,
+            "4_stylegan3": 0.18
+        }
+    },
+    "dataset/test/0_real/real_00029.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.97,
+        "probabilities": {
+            "0_real": 99.97,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/0_real/real_00030.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.83,
+        "probabilities": {
+            "0_real": 99.83,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.06,
+            "4_stylegan3": 0.11
+        }
+    },
+    "dataset/test/0_real/real_00031.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 100.0,
+        "probabilities": {
+            "0_real": 100.0,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.0
+        }
+    },
+    "dataset/test/0_real/real_00032.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.53,
+        "probabilities": {
+            "0_real": 99.53,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.13,
+            "4_stylegan3": 0.33
+        }
+    },
+    "dataset/test/0_real/real_00033.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.99,
+        "probabilities": {
+            "0_real": 99.99,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00034.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.92,
+        "probabilities": {
+            "0_real": 99.92,
+            "1_dcgan": 0.01,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.02,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/0_real/real_00035.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.97,
+        "probabilities": {
+            "0_real": 99.97,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00036.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.64,
+        "probabilities": {
+            "0_real": 98.64,
+            "1_dcgan": 0.02,
+            "2_progan": 0.07,
+            "3_stylegan2": 0.7,
+            "4_stylegan3": 0.57
+        }
+    },
+    "dataset/test/0_real/real_00037.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.73,
+        "probabilities": {
+            "0_real": 99.73,
+            "1_dcgan": 0.02,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.1,
+            "4_stylegan3": 0.14
+        }
+    },
+    "dataset/test/0_real/real_00038.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.8,
+        "probabilities": {
+            "0_real": 99.8,
+            "1_dcgan": 0.03,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.06,
+            "4_stylegan3": 0.08
+        }
+    },
+    "dataset/test/0_real/real_00039.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.88,
+        "probabilities": {
+            "0_real": 99.88,
+            "1_dcgan": 0.01,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.02,
+            "4_stylegan3": 0.09
+        }
+    },
+    "dataset/test/0_real/real_00040.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.21,
+        "probabilities": {
+            "0_real": 98.21,
+            "1_dcgan": 1.36,
+            "2_progan": 0.04,
+            "3_stylegan2": 0.13,
+            "4_stylegan3": 0.25
+        }
+    },
+    "dataset/test/0_real/real_00041.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.54,
+        "probabilities": {
+            "0_real": 99.54,
+            "1_dcgan": 0.05,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.16,
+            "4_stylegan3": 0.24
+        }
+    },
+    "dataset/test/0_real/real_00042.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.99,
+        "probabilities": {
+            "0_real": 99.99,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00043.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.98,
+        "probabilities": {
+            "0_real": 99.98,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/0_real/real_00044.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.85,
+        "probabilities": {
+            "0_real": 98.85,
+            "1_dcgan": 0.05,
+            "2_progan": 0.04,
+            "3_stylegan2": 0.57,
+            "4_stylegan3": 0.49
+        }
+    },
+    "dataset/test/0_real/real_00045.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 98.71,
+        "probabilities": {
+            "0_real": 98.71,
+            "1_dcgan": 0.14,
+            "2_progan": 0.12,
+            "3_stylegan2": 0.46,
+            "4_stylegan3": 0.57
+        }
+    },
+    "dataset/test/0_real/real_00046.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.93,
+        "probabilities": {
+            "0_real": 99.93,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.02,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/0_real/real_00047.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 99.95,
+            "1_dcgan": 0.01,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/0_real/real_00048.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.73,
+        "probabilities": {
+            "0_real": 99.73,
+            "1_dcgan": 0.01,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.06,
+            "4_stylegan3": 0.17
+        }
+    },
+    "dataset/test/0_real/real_00049.jpg": {
+        "true_class": "0_real",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 99.76,
+        "probabilities": {
+            "0_real": 99.76,
+            "1_dcgan": 0.11,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.03,
+            "4_stylegan3": 0.07
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00000.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.97,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 99.97,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00001.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.95,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00002.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.96,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 99.96,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00003.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.96,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.96,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00004.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.68,
+        "probabilities": {
+            "0_real": 0.18,
+            "1_dcgan": 99.68,
+            "2_progan": 0.1,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00005.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.95,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00006.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.41,
+        "probabilities": {
+            "0_real": 0.34,
+            "1_dcgan": 99.41,
+            "2_progan": 0.12,
+            "3_stylegan2": 0.05,
+            "4_stylegan3": 0.08
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00007.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.79,
+        "probabilities": {
+            "0_real": 0.11,
+            "1_dcgan": 99.79,
+            "2_progan": 0.05,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00008.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.91,
+        "probabilities": {
+            "0_real": 0.06,
+            "1_dcgan": 99.91,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00009.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.95,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00010.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.85,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 99.85,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00011.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.79,
+        "probabilities": {
+            "0_real": 0.15,
+            "1_dcgan": 99.79,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00012.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.97,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 99.97,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00013.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.95,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00014.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.95,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00015.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.92,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 99.92,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00016.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.94,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 99.94,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00017.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.94,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.94,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00018.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 95.33,
+        "probabilities": {
+            "0_real": 3.77,
+            "1_dcgan": 95.33,
+            "2_progan": 0.71,
+            "3_stylegan2": 0.05,
+            "4_stylegan3": 0.15
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00019.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.91,
+        "probabilities": {
+            "0_real": 0.04,
+            "1_dcgan": 99.91,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00020.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.98,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 99.98,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00021.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.91,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 99.91,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00022.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.6,
+        "probabilities": {
+            "0_real": 0.32,
+            "1_dcgan": 99.6,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00023.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.91,
+        "probabilities": {
+            "0_real": 0.06,
+            "1_dcgan": 99.91,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00024.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.84,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 99.84,
+            "2_progan": 0.03,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00025.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.73,
+        "probabilities": {
+            "0_real": 0.21,
+            "1_dcgan": 99.73,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00026.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.89,
+        "probabilities": {
+            "0_real": 0.09,
+            "1_dcgan": 99.89,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00027.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.62,
+        "probabilities": {
+            "0_real": 0.22,
+            "1_dcgan": 99.62,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.02,
+            "4_stylegan3": 0.14
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00028.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.84,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 99.84,
+            "2_progan": 0.04,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.02
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00029.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.97,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 99.97,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.0
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00030.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.81,
+        "probabilities": {
+            "0_real": 0.15,
+            "1_dcgan": 99.81,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00031.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.5,
+        "probabilities": {
+            "0_real": 0.38,
+            "1_dcgan": 99.5,
+            "2_progan": 0.06,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.05
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00032.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.95,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.95,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00033.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.89,
+        "probabilities": {
+            "0_real": 0.08,
+            "1_dcgan": 99.89,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00034.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.97,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 99.97,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00035.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.63,
+        "probabilities": {
+            "0_real": 0.18,
+            "1_dcgan": 99.63,
+            "2_progan": 0.12,
+            "3_stylegan2": 0.02,
+            "4_stylegan3": 0.05
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00036.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.87,
+        "probabilities": {
+            "0_real": 0.04,
+            "1_dcgan": 99.87,
+            "2_progan": 0.05,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00037.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.93,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.93,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00038.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.22,
+        "probabilities": {
+            "0_real": 0.53,
+            "1_dcgan": 99.22,
+            "2_progan": 0.11,
+            "3_stylegan2": 0.03,
+            "4_stylegan3": 0.11
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00039.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.82,
+        "probabilities": {
+            "0_real": 0.11,
+            "1_dcgan": 99.82,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.05
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00040.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.85,
+        "probabilities": {
+            "0_real": 0.08,
+            "1_dcgan": 99.85,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00041.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.49,
+        "probabilities": {
+            "0_real": 0.37,
+            "1_dcgan": 99.49,
+            "2_progan": 0.11,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00042.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 98.99,
+        "probabilities": {
+            "0_real": 0.35,
+            "1_dcgan": 98.99,
+            "2_progan": 0.35,
+            "3_stylegan2": 0.09,
+            "4_stylegan3": 0.22
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00043.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.96,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 99.96,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00044.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.92,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.92,
+            "2_progan": 0.0,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.04
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00045.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.8,
+        "probabilities": {
+            "0_real": 0.13,
+            "1_dcgan": 99.8,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.03
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00046.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.96,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.96,
+            "2_progan": 0.01,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00047.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.44,
+        "probabilities": {
+            "0_real": 0.41,
+            "1_dcgan": 99.44,
+            "2_progan": 0.1,
+            "3_stylegan2": 0.01,
+            "4_stylegan3": 0.05
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00048.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.87,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 99.87,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/1_dcgan/dcgan_00049.png": {
+        "true_class": "1_dcgan",
+        "predicted_class": "1_dcgan",
+        "display_label": "FAKE",
+        "source": "DCGAN",
+        "confidence": 99.93,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 99.93,
+            "2_progan": 0.02,
+            "3_stylegan2": 0.0,
+            "4_stylegan3": 0.01
+        }
+    },
+    "dataset/test/2_progan/progan_00000.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 96.42,
+        "probabilities": {
+            "0_real": 0.89,
+            "1_dcgan": 0.95,
+            "2_progan": 96.42,
+            "3_stylegan2": 0.86,
+            "4_stylegan3": 0.89
+        }
+    },
+    "dataset/test/2_progan/progan_00001.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 68.8,
+        "probabilities": {
+            "0_real": 1.38,
+            "1_dcgan": 0.87,
+            "2_progan": 68.8,
+            "3_stylegan2": 22.85,
+            "4_stylegan3": 6.1
+        }
+    },
+    "dataset/test/2_progan/progan_00002.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 91.84,
+        "probabilities": {
+            "0_real": 2.86,
+            "1_dcgan": 0.74,
+            "2_progan": 91.84,
+            "3_stylegan2": 1.91,
+            "4_stylegan3": 2.65
+        }
+    },
+    "dataset/test/2_progan/progan_00003.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 98.12,
+        "probabilities": {
+            "0_real": 0.78,
+            "1_dcgan": 0.03,
+            "2_progan": 98.12,
+            "3_stylegan2": 0.58,
+            "4_stylegan3": 0.5
+        }
+    },
+    "dataset/test/2_progan/progan_00004.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 99.61,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.01,
+            "2_progan": 99.61,
+            "3_stylegan2": 0.17,
+            "4_stylegan3": 0.16
+        }
+    },
+    "dataset/test/2_progan/progan_00005.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 97.74,
+        "probabilities": {
+            "0_real": 0.49,
+            "1_dcgan": 0.05,
+            "2_progan": 97.74,
+            "3_stylegan2": 1.13,
+            "4_stylegan3": 0.59
+        }
+    },
+    "dataset/test/2_progan/progan_00006.png": {
+        "true_class": "2_progan",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 50.04,
+        "probabilities": {
+            "0_real": 50.04,
+            "1_dcgan": 0.42,
+            "2_progan": 45.53,
+            "3_stylegan2": 1.56,
+            "4_stylegan3": 2.45
+        }
+    },
+    "dataset/test/2_progan/progan_00007.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 86.62,
+        "probabilities": {
+            "0_real": 10.37,
+            "1_dcgan": 0.9,
+            "2_progan": 86.62,
+            "3_stylegan2": 0.8,
+            "4_stylegan3": 1.31
+        }
+    },
+    "dataset/test/2_progan/progan_00008.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 86.1,
+        "probabilities": {
+            "0_real": 8.98,
+            "1_dcgan": 0.67,
+            "2_progan": 86.1,
+            "3_stylegan2": 2.23,
+            "4_stylegan3": 2.03
+        }
+    },
+    "dataset/test/2_progan/progan_00009.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 99.22,
+        "probabilities": {
+            "0_real": 0.11,
+            "1_dcgan": 0.03,
+            "2_progan": 99.22,
+            "3_stylegan2": 0.15,
+            "4_stylegan3": 0.48
+        }
+    },
+    "dataset/test/2_progan/progan_00010.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 78.22,
+        "probabilities": {
+            "0_real": 0.84,
+            "1_dcgan": 1.66,
+            "2_progan": 78.22,
+            "3_stylegan2": 8.71,
+            "4_stylegan3": 10.57
+        }
+    },
+    "dataset/test/2_progan/progan_00011.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 80.41,
+        "probabilities": {
+            "0_real": 11.22,
+            "1_dcgan": 2.18,
+            "2_progan": 80.41,
+            "3_stylegan2": 2.01,
+            "4_stylegan3": 4.17
+        }
+    },
+    "dataset/test/2_progan/progan_00012.png": {
+        "true_class": "2_progan",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 66.62,
+        "probabilities": {
+            "0_real": 0.62,
+            "1_dcgan": 0.01,
+            "2_progan": 5.5,
+            "3_stylegan2": 27.26,
+            "4_stylegan3": 66.62
+        }
+    },
+    "dataset/test/2_progan/progan_00013.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 97.62,
+        "probabilities": {
+            "0_real": 1.17,
+            "1_dcgan": 0.09,
+            "2_progan": 97.62,
+            "3_stylegan2": 0.51,
+            "4_stylegan3": 0.61
+        }
+    },
+    "dataset/test/2_progan/progan_00014.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 56.55,
+        "probabilities": {
+            "0_real": 8.44,
+            "1_dcgan": 6.32,
+            "2_progan": 56.55,
+            "3_stylegan2": 6.63,
+            "4_stylegan3": 22.06
+        }
+    },
+    "dataset/test/2_progan/progan_00015.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 99.45,
+        "probabilities": {
+            "0_real": 0.09,
+            "1_dcgan": 0.01,
+            "2_progan": 99.45,
+            "3_stylegan2": 0.16,
+            "4_stylegan3": 0.28
+        }
+    },
+    "dataset/test/2_progan/progan_00016.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 89.7,
+        "probabilities": {
+            "0_real": 0.69,
+            "1_dcgan": 0.16,
+            "2_progan": 89.7,
+            "3_stylegan2": 5.53,
+            "4_stylegan3": 3.93
+        }
+    },
+    "dataset/test/2_progan/progan_00017.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 98.75,
+        "probabilities": {
+            "0_real": 0.07,
+            "1_dcgan": 0.01,
+            "2_progan": 98.75,
+            "3_stylegan2": 0.76,
+            "4_stylegan3": 0.41
+        }
+    },
+    "dataset/test/2_progan/progan_00018.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 47.79,
+        "probabilities": {
+            "0_real": 20.89,
+            "1_dcgan": 0.98,
+            "2_progan": 47.79,
+            "3_stylegan2": 16.62,
+            "4_stylegan3": 13.73
+        }
+    },
+    "dataset/test/2_progan/progan_00019.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 99.2,
+        "probabilities": {
+            "0_real": 0.18,
+            "1_dcgan": 0.02,
+            "2_progan": 99.2,
+            "3_stylegan2": 0.38,
+            "4_stylegan3": 0.22
+        }
+    },
+    "dataset/test/2_progan/progan_00020.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 63.96,
+        "probabilities": {
+            "0_real": 0.3,
+            "1_dcgan": 0.01,
+            "2_progan": 63.96,
+            "3_stylegan2": 17.44,
+            "4_stylegan3": 18.3
+        }
+    },
+    "dataset/test/2_progan/progan_00021.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 88.76,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 0.02,
+            "2_progan": 88.76,
+            "3_stylegan2": 7.79,
+            "4_stylegan3": 3.3
+        }
+    },
+    "dataset/test/2_progan/progan_00022.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 78.86,
+        "probabilities": {
+            "0_real": 4.35,
+            "1_dcgan": 0.07,
+            "2_progan": 78.86,
+            "3_stylegan2": 8.07,
+            "4_stylegan3": 8.66
+        }
+    },
+    "dataset/test/2_progan/progan_00023.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 56.16,
+        "probabilities": {
+            "0_real": 8.8,
+            "1_dcgan": 3.21,
+            "2_progan": 56.16,
+            "3_stylegan2": 12.5,
+            "4_stylegan3": 19.33
+        }
+    },
+    "dataset/test/2_progan/progan_00024.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 94.18,
+        "probabilities": {
+            "0_real": 4.3,
+            "1_dcgan": 0.26,
+            "2_progan": 94.18,
+            "3_stylegan2": 0.47,
+            "4_stylegan3": 0.79
+        }
+    },
+    "dataset/test/2_progan/progan_00025.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 97.09,
+        "probabilities": {
+            "0_real": 0.11,
+            "1_dcgan": 0.46,
+            "2_progan": 97.09,
+            "3_stylegan2": 0.64,
+            "4_stylegan3": 1.7
+        }
+    },
+    "dataset/test/2_progan/progan_00026.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 92.68,
+        "probabilities": {
+            "0_real": 0.14,
+            "1_dcgan": 0.01,
+            "2_progan": 92.68,
+            "3_stylegan2": 2.6,
+            "4_stylegan3": 4.57
+        }
+    },
+    "dataset/test/2_progan/progan_00027.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 96.54,
+        "probabilities": {
+            "0_real": 0.48,
+            "1_dcgan": 0.18,
+            "2_progan": 96.54,
+            "3_stylegan2": 1.19,
+            "4_stylegan3": 1.62
+        }
+    },
+    "dataset/test/2_progan/progan_00028.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 75.85,
+        "probabilities": {
+            "0_real": 16.46,
+            "1_dcgan": 0.1,
+            "2_progan": 75.85,
+            "3_stylegan2": 3.55,
+            "4_stylegan3": 4.03
+        }
+    },
+    "dataset/test/2_progan/progan_00029.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 94.83,
+        "probabilities": {
+            "0_real": 0.56,
+            "1_dcgan": 0.3,
+            "2_progan": 94.83,
+            "3_stylegan2": 2.19,
+            "4_stylegan3": 2.12
+        }
+    },
+    "dataset/test/2_progan/progan_00030.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 98.84,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 98.84,
+            "3_stylegan2": 0.67,
+            "4_stylegan3": 0.47
+        }
+    },
+    "dataset/test/2_progan/progan_00031.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 99.81,
+        "probabilities": {
+            "0_real": 0.0,
+            "1_dcgan": 0.0,
+            "2_progan": 99.81,
+            "3_stylegan2": 0.08,
+            "4_stylegan3": 0.1
+        }
+    },
+    "dataset/test/2_progan/progan_00032.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 87.61,
+        "probabilities": {
+            "0_real": 0.83,
+            "1_dcgan": 1.55,
+            "2_progan": 87.61,
+            "3_stylegan2": 2.54,
+            "4_stylegan3": 7.47
+        }
+    },
+    "dataset/test/2_progan/progan_00033.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 89.84,
+        "probabilities": {
+            "0_real": 1.92,
+            "1_dcgan": 0.0,
+            "2_progan": 89.84,
+            "3_stylegan2": 3.14,
+            "4_stylegan3": 5.09
+        }
+    },
+    "dataset/test/2_progan/progan_00034.png": {
+        "true_class": "2_progan",
+        "predicted_class": "0_real",
+        "display_label": "REAL",
+        "source": "Real",
+        "confidence": 51.82,
+        "probabilities": {
+            "0_real": 51.82,
+            "1_dcgan": 0.47,
+            "2_progan": 36.51,
+            "3_stylegan2": 4.74,
+            "4_stylegan3": 6.46
+        }
+    },
+    "dataset/test/2_progan/progan_00035.png": {
+        "true_class": "2_progan",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 50.12,
+        "probabilities": {
+            "0_real": 2.07,
+            "1_dcgan": 0.03,
+            "2_progan": 27.02,
+            "3_stylegan2": 20.76,
+            "4_stylegan3": 50.12
+        }
+    },
+    "dataset/test/2_progan/progan_00036.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 78.25,
+        "probabilities": {
+            "0_real": 0.92,
+            "1_dcgan": 0.36,
+            "2_progan": 78.25,
+            "3_stylegan2": 14.1,
+            "4_stylegan3": 6.37
+        }
+    },
+    "dataset/test/2_progan/progan_00037.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 90.11,
+        "probabilities": {
+            "0_real": 0.13,
+            "1_dcgan": 0.11,
+            "2_progan": 90.11,
+            "3_stylegan2": 4.21,
+            "4_stylegan3": 5.44
+        }
+    },
+    "dataset/test/2_progan/progan_00038.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 87.38,
+        "probabilities": {
+            "0_real": 0.55,
+            "1_dcgan": 0.94,
+            "2_progan": 87.38,
+            "3_stylegan2": 4.71,
+            "4_stylegan3": 6.42
+        }
+    },
+    "dataset/test/2_progan/progan_00039.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 99.83,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 0.0,
+            "2_progan": 99.83,
+            "3_stylegan2": 0.06,
+            "4_stylegan3": 0.1
+        }
+    },
+    "dataset/test/2_progan/progan_00040.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 89.86,
+        "probabilities": {
+            "0_real": 3.93,
+            "1_dcgan": 0.22,
+            "2_progan": 89.86,
+            "3_stylegan2": 3.11,
+            "4_stylegan3": 2.88
+        }
+    },
+    "dataset/test/2_progan/progan_00041.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 78.38,
+        "probabilities": {
+            "0_real": 0.21,
+            "1_dcgan": 0.09,
+            "2_progan": 78.38,
+            "3_stylegan2": 11.39,
+            "4_stylegan3": 9.93
+        }
+    },
+    "dataset/test/2_progan/progan_00042.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 97.95,
+        "probabilities": {
+            "0_real": 0.18,
+            "1_dcgan": 0.08,
+            "2_progan": 97.95,
+            "3_stylegan2": 0.59,
+            "4_stylegan3": 1.2
+        }
+    },
+    "dataset/test/2_progan/progan_00043.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 97.87,
+        "probabilities": {
+            "0_real": 0.17,
+            "1_dcgan": 0.13,
+            "2_progan": 97.87,
+            "3_stylegan2": 1.04,
+            "4_stylegan3": 0.79
+        }
+    },
+    "dataset/test/2_progan/progan_00044.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 61.38,
+        "probabilities": {
+            "0_real": 10.59,
+            "1_dcgan": 0.67,
+            "2_progan": 61.38,
+            "3_stylegan2": 14.07,
+            "4_stylegan3": 13.29
+        }
+    },
+    "dataset/test/2_progan/progan_00045.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 85.82,
+        "probabilities": {
+            "0_real": 1.41,
+            "1_dcgan": 0.02,
+            "2_progan": 85.82,
+            "3_stylegan2": 9.2,
+            "4_stylegan3": 3.56
+        }
+    },
+    "dataset/test/2_progan/progan_00046.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 82.36,
+        "probabilities": {
+            "0_real": 11.6,
+            "1_dcgan": 0.02,
+            "2_progan": 82.36,
+            "3_stylegan2": 2.05,
+            "4_stylegan3": 3.98
+        }
+    },
+    "dataset/test/2_progan/progan_00047.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 94.16,
+        "probabilities": {
+            "0_real": 0.14,
+            "1_dcgan": 0.02,
+            "2_progan": 94.16,
+            "3_stylegan2": 4.07,
+            "4_stylegan3": 1.61
+        }
+    },
+    "dataset/test/2_progan/progan_00048.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 95.84,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 0.05,
+            "2_progan": 95.84,
+            "3_stylegan2": 2.14,
+            "4_stylegan3": 1.87
+        }
+    },
+    "dataset/test/2_progan/progan_00049.png": {
+        "true_class": "2_progan",
+        "predicted_class": "2_progan",
+        "display_label": "FAKE",
+        "source": "PROGAN",
+        "confidence": 96.61,
+        "probabilities": {
+            "0_real": 0.11,
+            "1_dcgan": 0.04,
+            "2_progan": 96.61,
+            "3_stylegan2": 1.58,
+            "4_stylegan3": 1.66
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00000.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 53.56,
+        "probabilities": {
+            "0_real": 1.82,
+            "1_dcgan": 0.02,
+            "2_progan": 0.18,
+            "3_stylegan2": 53.56,
+            "4_stylegan3": 44.43
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00001.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 60.84,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 0.0,
+            "2_progan": 2.35,
+            "3_stylegan2": 60.84,
+            "4_stylegan3": 36.8
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00002.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 56.82,
+        "probabilities": {
+            "0_real": 0.14,
+            "1_dcgan": 0.06,
+            "2_progan": 0.42,
+            "3_stylegan2": 56.82,
+            "4_stylegan3": 42.55
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00003.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 66.7,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.0,
+            "2_progan": 0.02,
+            "3_stylegan2": 33.22,
+            "4_stylegan3": 66.7
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00004.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 51.34,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 51.34,
+            "4_stylegan3": 48.63
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00005.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 74.73,
+        "probabilities": {
+            "0_real": 2.33,
+            "1_dcgan": 0.1,
+            "2_progan": 0.17,
+            "3_stylegan2": 22.67,
+            "4_stylegan3": 74.73
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00006.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 56.37,
+        "probabilities": {
+            "0_real": 0.15,
+            "1_dcgan": 0.03,
+            "2_progan": 0.35,
+            "3_stylegan2": 43.11,
+            "4_stylegan3": 56.37
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00007.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 66.56,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 33.42,
+            "4_stylegan3": 66.56
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00008.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 59.88,
+        "probabilities": {
+            "0_real": 0.2,
+            "1_dcgan": 0.01,
+            "2_progan": 0.15,
+            "3_stylegan2": 39.76,
+            "4_stylegan3": 59.88
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00009.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 49.64,
+        "probabilities": {
+            "0_real": 19.35,
+            "1_dcgan": 0.15,
+            "2_progan": 1.97,
+            "3_stylegan2": 28.9,
+            "4_stylegan3": 49.64
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00010.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 54.63,
+        "probabilities": {
+            "0_real": 2.45,
+            "1_dcgan": 0.06,
+            "2_progan": 0.14,
+            "3_stylegan2": 42.72,
+            "4_stylegan3": 54.63
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00011.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 54.9,
+        "probabilities": {
+            "0_real": 0.07,
+            "1_dcgan": 0.1,
+            "2_progan": 0.15,
+            "3_stylegan2": 54.9,
+            "4_stylegan3": 44.78
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00012.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 53.77,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 0.01,
+            "2_progan": 0.05,
+            "3_stylegan2": 46.17,
+            "4_stylegan3": 53.77
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00013.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 57.11,
+        "probabilities": {
+            "0_real": 0.16,
+            "1_dcgan": 0.0,
+            "2_progan": 0.08,
+            "3_stylegan2": 57.11,
+            "4_stylegan3": 42.65
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00014.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 63.67,
+        "probabilities": {
+            "0_real": 0.08,
+            "1_dcgan": 0.0,
+            "2_progan": 0.03,
+            "3_stylegan2": 36.22,
+            "4_stylegan3": 63.67
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00015.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 56.78,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 43.2,
+            "4_stylegan3": 56.78
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00016.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 52.52,
+        "probabilities": {
+            "0_real": 0.04,
+            "1_dcgan": 0.01,
+            "2_progan": 0.09,
+            "3_stylegan2": 47.34,
+            "4_stylegan3": 52.52
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00017.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.92,
+        "probabilities": {
+            "0_real": 0.81,
+            "1_dcgan": 0.01,
+            "2_progan": 0.12,
+            "3_stylegan2": 41.15,
+            "4_stylegan3": 57.92
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00018.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 59.39,
+        "probabilities": {
+            "0_real": 0.11,
+            "1_dcgan": 0.03,
+            "2_progan": 0.43,
+            "3_stylegan2": 59.39,
+            "4_stylegan3": 40.04
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00019.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 64.46,
+        "probabilities": {
+            "0_real": 0.06,
+            "1_dcgan": 0.01,
+            "2_progan": 0.16,
+            "3_stylegan2": 64.46,
+            "4_stylegan3": 35.31
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00020.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 55.14,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 0.01,
+            "2_progan": 0.09,
+            "3_stylegan2": 55.14,
+            "4_stylegan3": 44.64
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00021.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 49.78,
+        "probabilities": {
+            "0_real": 0.17,
+            "1_dcgan": 0.03,
+            "2_progan": 0.26,
+            "3_stylegan2": 49.78,
+            "4_stylegan3": 49.75
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00022.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 54.21,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 54.21,
+            "4_stylegan3": 45.76
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00023.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 54.74,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.01,
+            "2_progan": 0.1,
+            "3_stylegan2": 45.1,
+            "4_stylegan3": 54.74
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00024.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 53.68,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.0,
+            "2_progan": 0.11,
+            "3_stylegan2": 46.16,
+            "4_stylegan3": 53.68
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00025.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 52.52,
+        "probabilities": {
+            "0_real": 0.06,
+            "1_dcgan": 0.0,
+            "2_progan": 0.02,
+            "3_stylegan2": 47.4,
+            "4_stylegan3": 52.52
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00026.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 61.06,
+        "probabilities": {
+            "0_real": 0.15,
+            "1_dcgan": 0.08,
+            "2_progan": 0.84,
+            "3_stylegan2": 61.06,
+            "4_stylegan3": 37.88
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00027.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 72.85,
+        "probabilities": {
+            "0_real": 0.03,
+            "1_dcgan": 0.01,
+            "2_progan": 0.06,
+            "3_stylegan2": 27.04,
+            "4_stylegan3": 72.85
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00028.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.5,
+        "probabilities": {
+            "0_real": 0.27,
+            "1_dcgan": 0.01,
+            "2_progan": 0.08,
+            "3_stylegan2": 42.14,
+            "4_stylegan3": 57.5
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00029.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 56.29,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 56.29,
+            "4_stylegan3": 43.6
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00030.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 55.44,
+        "probabilities": {
+            "0_real": 0.16,
+            "1_dcgan": 0.05,
+            "2_progan": 9.08,
+            "3_stylegan2": 35.27,
+            "4_stylegan3": 55.44
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00031.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 72.07,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.01,
+            "2_progan": 0.69,
+            "3_stylegan2": 27.18,
+            "4_stylegan3": 72.07
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00032.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 67.55,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.11,
+            "3_stylegan2": 67.55,
+            "4_stylegan3": 32.31
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00033.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 52.94,
+        "probabilities": {
+            "0_real": 5.12,
+            "1_dcgan": 0.01,
+            "2_progan": 0.03,
+            "3_stylegan2": 41.91,
+            "4_stylegan3": 52.94
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00034.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 58.06,
+        "probabilities": {
+            "0_real": 0.09,
+            "1_dcgan": 0.01,
+            "2_progan": 0.04,
+            "3_stylegan2": 41.8,
+            "4_stylegan3": 58.06
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00035.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 58.09,
+        "probabilities": {
+            "0_real": 1.51,
+            "1_dcgan": 0.19,
+            "2_progan": 0.32,
+            "3_stylegan2": 39.89,
+            "4_stylegan3": 58.09
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00036.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 49.43,
+        "probabilities": {
+            "0_real": 2.59,
+            "1_dcgan": 0.02,
+            "2_progan": 1.14,
+            "3_stylegan2": 49.43,
+            "4_stylegan3": 46.81
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00037.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 50.49,
+        "probabilities": {
+            "0_real": 0.08,
+            "1_dcgan": 0.0,
+            "2_progan": 0.03,
+            "3_stylegan2": 50.49,
+            "4_stylegan3": 49.4
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00038.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 50.13,
+        "probabilities": {
+            "0_real": 0.16,
+            "1_dcgan": 0.05,
+            "2_progan": 3.56,
+            "3_stylegan2": 50.13,
+            "4_stylegan3": 46.1
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00039.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 55.53,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 44.44,
+            "4_stylegan3": 55.53
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00040.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 56.83,
+        "probabilities": {
+            "0_real": 0.2,
+            "1_dcgan": 0.02,
+            "2_progan": 0.11,
+            "3_stylegan2": 42.84,
+            "4_stylegan3": 56.83
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00041.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 60.87,
+        "probabilities": {
+            "0_real": 0.04,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 39.07,
+            "4_stylegan3": 60.87
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00042.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.05,
+        "probabilities": {
+            "0_real": 0.75,
+            "1_dcgan": 0.02,
+            "2_progan": 0.06,
+            "3_stylegan2": 42.13,
+            "4_stylegan3": 57.05
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00043.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 72.25,
+        "probabilities": {
+            "0_real": 2.68,
+            "1_dcgan": 1.26,
+            "2_progan": 2.36,
+            "3_stylegan2": 21.46,
+            "4_stylegan3": 72.25
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00044.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 46.3,
+        "probabilities": {
+            "0_real": 1.02,
+            "1_dcgan": 0.38,
+            "2_progan": 25.01,
+            "3_stylegan2": 27.29,
+            "4_stylegan3": 46.3
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00045.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 50.51,
+        "probabilities": {
+            "0_real": 0.86,
+            "1_dcgan": 0.02,
+            "2_progan": 1.16,
+            "3_stylegan2": 47.44,
+            "4_stylegan3": 50.51
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00046.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 51.57,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 0.16,
+            "2_progan": 0.32,
+            "3_stylegan2": 51.57,
+            "4_stylegan3": 47.85
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00047.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 56.72,
+        "probabilities": {
+            "0_real": 0.56,
+            "1_dcgan": 0.13,
+            "2_progan": 2.82,
+            "3_stylegan2": 56.72,
+            "4_stylegan3": 39.77
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00048.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 77.79,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.2,
+            "3_stylegan2": 77.79,
+            "4_stylegan3": 21.99
+        }
+    },
+    "dataset/test/3_stylegan2/stylegan2_00049.png": {
+        "true_class": "3_stylegan2",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 49.39,
+        "probabilities": {
+            "0_real": 3.12,
+            "1_dcgan": 0.01,
+            "2_progan": 0.05,
+            "3_stylegan2": 47.43,
+            "4_stylegan3": 49.39
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00000.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 67.48,
+        "probabilities": {
+            "0_real": 0.85,
+            "1_dcgan": 0.73,
+            "2_progan": 0.69,
+            "3_stylegan2": 30.25,
+            "4_stylegan3": 67.48
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00001.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 74.96,
+        "probabilities": {
+            "0_real": 0.21,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 24.82,
+            "4_stylegan3": 74.96
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00002.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 55.66,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 0.0,
+            "2_progan": 0.08,
+            "3_stylegan2": 44.16,
+            "4_stylegan3": 55.66
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00003.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 57.34,
+        "probabilities": {
+            "0_real": 3.04,
+            "1_dcgan": 0.29,
+            "2_progan": 0.17,
+            "3_stylegan2": 57.34,
+            "4_stylegan3": 39.15
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00004.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 69.55,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.0,
+            "2_progan": 0.03,
+            "3_stylegan2": 30.37,
+            "4_stylegan3": 69.55
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00005.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.01,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 0.11,
+            "2_progan": 0.48,
+            "3_stylegan2": 42.27,
+            "4_stylegan3": 57.01
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00006.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 75.77,
+        "probabilities": {
+            "0_real": 0.19,
+            "1_dcgan": 0.0,
+            "2_progan": 0.03,
+            "3_stylegan2": 24.02,
+            "4_stylegan3": 75.77
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00007.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 71.0,
+        "probabilities": {
+            "0_real": 0.38,
+            "1_dcgan": 0.02,
+            "2_progan": 0.09,
+            "3_stylegan2": 28.52,
+            "4_stylegan3": 71.0
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00008.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 50.71,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 50.71,
+            "4_stylegan3": 49.25
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00009.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 51.63,
+        "probabilities": {
+            "0_real": 0.27,
+            "1_dcgan": 0.0,
+            "2_progan": 0.13,
+            "3_stylegan2": 51.63,
+            "4_stylegan3": 47.97
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00010.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 59.99,
+        "probabilities": {
+            "0_real": 0.16,
+            "1_dcgan": 0.11,
+            "2_progan": 2.04,
+            "3_stylegan2": 37.7,
+            "4_stylegan3": 59.99
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00011.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 63.67,
+        "probabilities": {
+            "0_real": 7.87,
+            "1_dcgan": 0.02,
+            "2_progan": 0.07,
+            "3_stylegan2": 28.37,
+            "4_stylegan3": 63.67
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00012.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.31,
+        "probabilities": {
+            "0_real": 0.26,
+            "1_dcgan": 0.0,
+            "2_progan": 0.02,
+            "3_stylegan2": 42.41,
+            "4_stylegan3": 57.31
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00013.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 63.25,
+        "probabilities": {
+            "0_real": 0.15,
+            "1_dcgan": 0.01,
+            "2_progan": 0.06,
+            "3_stylegan2": 36.53,
+            "4_stylegan3": 63.25
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00014.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 52.15,
+        "probabilities": {
+            "0_real": 0.0,
+            "1_dcgan": 0.0,
+            "2_progan": 0.0,
+            "3_stylegan2": 47.85,
+            "4_stylegan3": 52.15
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00015.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 69.22,
+        "probabilities": {
+            "0_real": 1.67,
+            "1_dcgan": 0.05,
+            "2_progan": 0.15,
+            "3_stylegan2": 28.91,
+            "4_stylegan3": 69.22
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00016.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 40.71,
+        "probabilities": {
+            "0_real": 30.6,
+            "1_dcgan": 0.06,
+            "2_progan": 0.92,
+            "3_stylegan2": 27.72,
+            "4_stylegan3": 40.71
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00017.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 56.33,
+        "probabilities": {
+            "0_real": 0.26,
+            "1_dcgan": 0.0,
+            "2_progan": 0.02,
+            "3_stylegan2": 43.38,
+            "4_stylegan3": 56.33
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00018.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.17,
+        "probabilities": {
+            "0_real": 0.6,
+            "1_dcgan": 0.03,
+            "2_progan": 0.07,
+            "3_stylegan2": 42.12,
+            "4_stylegan3": 57.17
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00019.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 64.44,
+        "probabilities": {
+            "0_real": 0.04,
+            "1_dcgan": 0.01,
+            "2_progan": 0.02,
+            "3_stylegan2": 35.49,
+            "4_stylegan3": 64.44
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00020.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.3,
+        "probabilities": {
+            "0_real": 2.88,
+            "1_dcgan": 0.0,
+            "2_progan": 0.06,
+            "3_stylegan2": 39.76,
+            "4_stylegan3": 57.3
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00021.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 51.99,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 0.0,
+            "2_progan": 0.05,
+            "3_stylegan2": 47.86,
+            "4_stylegan3": 51.99
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00022.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 58.79,
+        "probabilities": {
+            "0_real": 5.54,
+            "1_dcgan": 0.32,
+            "2_progan": 0.9,
+            "3_stylegan2": 34.46,
+            "4_stylegan3": 58.79
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00023.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 79.49,
+        "probabilities": {
+            "0_real": 0.22,
+            "1_dcgan": 0.17,
+            "2_progan": 0.49,
+            "3_stylegan2": 19.62,
+            "4_stylegan3": 79.49
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00024.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 50.41,
+        "probabilities": {
+            "0_real": 0.26,
+            "1_dcgan": 0.01,
+            "2_progan": 0.12,
+            "3_stylegan2": 49.2,
+            "4_stylegan3": 50.41
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00025.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 52.2,
+        "probabilities": {
+            "0_real": 3.16,
+            "1_dcgan": 0.25,
+            "2_progan": 8.58,
+            "3_stylegan2": 35.82,
+            "4_stylegan3": 52.2
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00026.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 59.47,
+        "probabilities": {
+            "0_real": 0.05,
+            "1_dcgan": 0.02,
+            "2_progan": 0.17,
+            "3_stylegan2": 40.28,
+            "4_stylegan3": 59.47
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00027.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 61.14,
+        "probabilities": {
+            "0_real": 0.21,
+            "1_dcgan": 0.07,
+            "2_progan": 2.15,
+            "3_stylegan2": 36.43,
+            "4_stylegan3": 61.14
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00028.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 51.66,
+        "probabilities": {
+            "0_real": 0.0,
+            "1_dcgan": 0.0,
+            "2_progan": 0.01,
+            "3_stylegan2": 51.66,
+            "4_stylegan3": 48.32
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00029.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 72.28,
+        "probabilities": {
+            "0_real": 0.02,
+            "1_dcgan": 0.0,
+            "2_progan": 0.42,
+            "3_stylegan2": 72.28,
+            "4_stylegan3": 27.28
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00030.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 67.4,
+        "probabilities": {
+            "0_real": 0.2,
+            "1_dcgan": 0.01,
+            "2_progan": 0.01,
+            "3_stylegan2": 32.37,
+            "4_stylegan3": 67.4
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00031.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 68.87,
+        "probabilities": {
+            "0_real": 1.15,
+            "1_dcgan": 0.03,
+            "2_progan": 0.27,
+            "3_stylegan2": 29.68,
+            "4_stylegan3": 68.87
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00032.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 72.26,
+        "probabilities": {
+            "0_real": 0.08,
+            "1_dcgan": 0.01,
+            "2_progan": 0.03,
+            "3_stylegan2": 27.61,
+            "4_stylegan3": 72.26
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00033.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 58.82,
+        "probabilities": {
+            "0_real": 2.27,
+            "1_dcgan": 0.01,
+            "2_progan": 0.01,
+            "3_stylegan2": 38.89,
+            "4_stylegan3": 58.82
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00034.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 50.55,
+        "probabilities": {
+            "0_real": 3.06,
+            "1_dcgan": 0.12,
+            "2_progan": 1.63,
+            "3_stylegan2": 44.63,
+            "4_stylegan3": 50.55
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00035.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 53.61,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 0.01,
+            "2_progan": 0.26,
+            "3_stylegan2": 53.61,
+            "4_stylegan3": 46.0
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00036.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 51.89,
+        "probabilities": {
+            "0_real": 0.06,
+            "1_dcgan": 0.01,
+            "2_progan": 0.21,
+            "3_stylegan2": 47.83,
+            "4_stylegan3": 51.89
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00037.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 71.86,
+        "probabilities": {
+            "0_real": 0.07,
+            "1_dcgan": 0.03,
+            "2_progan": 0.07,
+            "3_stylegan2": 27.97,
+            "4_stylegan3": 71.86
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00038.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 57.69,
+        "probabilities": {
+            "0_real": 0.01,
+            "1_dcgan": 0.0,
+            "2_progan": 0.06,
+            "3_stylegan2": 57.69,
+            "4_stylegan3": 42.24
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00039.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 53.73,
+        "probabilities": {
+            "0_real": 0.98,
+            "1_dcgan": 0.04,
+            "2_progan": 0.16,
+            "3_stylegan2": 53.73,
+            "4_stylegan3": 45.07
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00040.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 52.19,
+        "probabilities": {
+            "0_real": 0.16,
+            "1_dcgan": 0.04,
+            "2_progan": 0.28,
+            "3_stylegan2": 47.33,
+            "4_stylegan3": 52.19
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00041.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 57.57,
+        "probabilities": {
+            "0_real": 0.23,
+            "1_dcgan": 0.07,
+            "2_progan": 0.55,
+            "3_stylegan2": 41.57,
+            "4_stylegan3": 57.57
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00042.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 53.01,
+        "probabilities": {
+            "0_real": 0.48,
+            "1_dcgan": 0.01,
+            "2_progan": 1.08,
+            "3_stylegan2": 45.42,
+            "4_stylegan3": 53.01
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00043.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 52.97,
+        "probabilities": {
+            "0_real": 3.42,
+            "1_dcgan": 0.03,
+            "2_progan": 0.83,
+            "3_stylegan2": 52.97,
+            "4_stylegan3": 42.75
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00044.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 78.95,
+        "probabilities": {
+            "0_real": 0.1,
+            "1_dcgan": 0.01,
+            "2_progan": 0.05,
+            "3_stylegan2": 20.88,
+            "4_stylegan3": 78.95
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00045.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 60.05,
+        "probabilities": {
+            "0_real": 0.13,
+            "1_dcgan": 0.0,
+            "2_progan": 0.07,
+            "3_stylegan2": 39.75,
+            "4_stylegan3": 60.05
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00046.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 53.89,
+        "probabilities": {
+            "0_real": 0.17,
+            "1_dcgan": 0.03,
+            "2_progan": 0.13,
+            "3_stylegan2": 53.89,
+            "4_stylegan3": 45.77
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00047.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 67.28,
+        "probabilities": {
+            "0_real": 0.12,
+            "1_dcgan": 0.01,
+            "2_progan": 0.04,
+            "3_stylegan2": 32.55,
+            "4_stylegan3": 67.28
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00048.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "3_stylegan2",
+        "display_label": "FAKE",
+        "source": "STYLEGAN2",
+        "confidence": 53.18,
+        "probabilities": {
+            "0_real": 0.04,
+            "1_dcgan": 0.01,
+            "2_progan": 0.11,
+            "3_stylegan2": 53.18,
+            "4_stylegan3": 46.66
+        }
+    },
+    "dataset/test/4_stylegan3/stylegan3_00049.png": {
+        "true_class": "4_stylegan3",
+        "predicted_class": "4_stylegan3",
+        "display_label": "FAKE",
+        "source": "STYLEGAN3",
+        "confidence": 50.77,
+        "probabilities": {
+            "0_real": 1.52,
+            "1_dcgan": 0.03,
+            "2_progan": 0.12,
+            "3_stylegan2": 47.56,
+            "4_stylegan3": 50.77
+        }
+    }
+}

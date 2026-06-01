@@ -1,0 +1,13 @@
+5-Class Test Accuracy: 0.8200
+
+              precision    recall  f1-score   support
+
+      0_real     0.9615    1.0000    0.9804        50
+     1_dcgan     1.0000    1.0000    1.0000        50
+    2_progan     1.0000    0.9200    0.9583        50
+ 3_stylegan2     0.6452    0.4000    0.4938        50
+ 4_stylegan3     0.5493    0.7800    0.6446        50
+
+    accuracy                         0.8200       250
+   macro avg     0.8312    0.8200    0.8154       250
+weighted avg     0.8312    0.8200    0.8154       250
