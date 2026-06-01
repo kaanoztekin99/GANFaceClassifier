@@ -1,0 +1,87 @@
+GAN Face Classifier
+Pre-trained Model Sources
+======================================
+
+This project uses publicly available pre-trained GAN models
+to generate synthetic face images for classification purposes.
+
+The models were not trained from scratch.
+Only the generated images were used for dataset creation.
+
+------------------------------------------------------------
+DCGAN
+------------------------------------------------------------
+
+Source:
+https://huggingface.co/hussamalafandi/DCGAN_CelebA
+
+Dataset:
+CelebA
+
+Model File:
+generator.pth
+
+------------------------------------------------------------
+ProGAN
+------------------------------------------------------------
+
+Source:
+https://dl.fbaipublicfiles.com/gan_zoo/PGAN/celebaHQ16_december_s7_i96000-9c72988c.pth
+
+Dataset:
+CelebA-HQ
+
+Model File:
+celebaHQ16_december_s7_i96000-9c72988c.pth
+
+------------------------------------------------------------
+StyleGAN2
+------------------------------------------------------------
+
+Source:
+https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl
+
+Dataset:
+FFHQ (Flickr-Faces-HQ)
+
+Model File:
+ffhq.pkl
+
+Official Repository:
+https://github.com/NVlabs/stylegan2-ada-pytorch
+
+------------------------------------------------------------
+StyleGAN3
+------------------------------------------------------------
+
+Source:
+https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-r-ffhq-1024x1024.pkl
+
+Dataset:
+FFHQ (Flickr-Faces-HQ)
+
+Model File:
+stylegan3-r-ffhq-1024x1024.pkl
+
+Official Repository:
+https://github.com/NVlabs/stylegan3
+
+------------------------------------------------------------
+Additional Resource
+------------------------------------------------------------
+
+This Person Does Not Exist
+(StyleGAN-based face generation demo)
+
+https://thispersondoesnotexist.com
+
+------------------------------------------------------------
+Environment Notes
+------------------------------------------------------------
+
+Several environment compatibility adjustments were required
+to execute the pre-trained models.
+
+- Python version was downgraded to 3.10
+- CUDA-compatible versions of PyTorch, TorchVision and TorchAudio were installed
+- StyleGAN1 could not be included due to legacy TensorFlow dependencies and compatibility issues
