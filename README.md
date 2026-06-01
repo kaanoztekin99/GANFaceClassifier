@@ -2,7 +2,17 @@
 
 A CNN-based framework for detecting GAN-generated human faces and identifying their source architecture.
 
-This project was developed as part of the **DT068A Image Analysis** course at **Mid Sweden University (Mittuniversitetet)**.
+
+---
+
+## Live Demo
+
+The project is deployed at:
+
+https://kaanoztekin99.github.io/GANFaceClassifier/
+
+
+![Dashboard View](outputs/dashboard_view.png)
 
 ---
 
@@ -158,9 +168,15 @@ GANFaceClassifier/
 
 ---
 
-## Author
+## 👥 Author
 
-**Kaan Tekin Öztekin**
-
-Mid Sweden University
-Erasmus Mundus IMAGING Programme
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kaanoztekin99">
+        <img src="https://avatars.githubusercontent.com/kaanoztekin99" width="80" alt=""/><br />
+        <sub><b>Kaan Tekin Öztekin</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
